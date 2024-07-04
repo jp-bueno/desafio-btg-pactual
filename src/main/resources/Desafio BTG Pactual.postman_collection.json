@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "ebf1eacc-aa54-43c9-a384-282cc8ae61eb",
+		"name": "Desafio BTG Pactual",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20155876",
+		"_collection_link": "https://restless-resonance-397291.postman.co/workspace/My-Workspace~2dce7276-a678-4517-8d0c-850b176ec8a3/collection/20155876-ebf1eacc-aa54-43c9-a384-282cc8ae61eb?action=share&source=collection_link&creator=20155876"
+	},
+	"item": [
+		{
+			"name": "List Orders",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/customers/2/orders",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"customers",
+						"2",
+						"orders"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

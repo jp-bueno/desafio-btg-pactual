@@ -22,7 +22,7 @@
 - Utilizamos o [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 
 ## Como interagir com a API?
-- Utilizamos o [Postman]
+- Utilizamos o [Postman](src/main/resources/Desafio%20BTG%20Pactual.postman_collection.json)
 
 ## :rocket: Tecnologias utilizadas
 
